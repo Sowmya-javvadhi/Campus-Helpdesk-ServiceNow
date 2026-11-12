@@ -68,7 +68,8 @@ Created a flow that triggers when a new high-priority campus ticket is created a
 ![Script Include](screenshots/script-include.png)
 
 ### GlideRecord Execution
-![GlideRecord](screenshots/gliderecord.png)
+![GlideRecord](screenshots/glide-record.png)
+![GlideRecordOutput](screenshots/glide-record-output.png)
 
 ### Flow Designer
 ![Flow Designer](screenshots/flow-designer.png)
